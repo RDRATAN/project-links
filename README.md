@@ -21,4 +21,8 @@ https://codincubes.com
 https://dlmslpu.web.app
 
 ## Live Chat App using react and Node
-https://dazzling-golick-db1010.netlify.app
+https://gossip-chat.netlify.app/
+
+## server
+https://react-chat-server-ratan.herokuapp.com/
+
